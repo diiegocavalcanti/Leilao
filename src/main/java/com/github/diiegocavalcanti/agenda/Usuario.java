@@ -10,9 +10,9 @@ public class Usuario {
 	}
 	
 	public String nome(){
-		return this.nome;
+		return nome;
 	}
 	public String email(){
-		return this.email;
+		return email;
 	}
 }
